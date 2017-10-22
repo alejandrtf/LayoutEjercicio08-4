@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LayoutEjercicio08-4</string>
+    <string name="rojo">Red</string>
+    <string name="naranja">Orange</string>
+    <string name="amarillo">Yellow</string>
+    <string name="verde">Green</string>
+    <string name="azul">Blue</string>
+    <string name="indigo">Indigo</string>
+    <string name="violeta">Violet</string>
+</resources>

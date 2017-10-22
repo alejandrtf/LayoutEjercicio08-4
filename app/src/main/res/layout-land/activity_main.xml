@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.android.alejandra.layoutejercicio08_2.MainActivity">
+
+    <TextView
+        android:id="@+id/tvRojo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/rojo"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/rojo" />
+
+    <TextView
+        android:id="@+id/tvNaranja"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/naranja"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/naranja" />
+
+    <TextView
+        android:id="@+id/tvAmarillo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/amarillo"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/amarillo" />
+
+    <TextView
+        android:id="@+id/tvVerde"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/verde"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/verde" />
+
+    <TextView
+        android:id="@+id/tvAzul"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/azul"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/azul"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/tvIndigo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/indigo"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/indigo"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/tvViolet"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/violeta"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/violeta" />
+
+
+</LinearLayout>
